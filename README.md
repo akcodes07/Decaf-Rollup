@@ -1,6 +1,6 @@
-## Espresso Rollup (Decaf Testnet + Arbitrum Sepolia)
+## Espresso Rollup
 
-**Caffeinate & Code**
+This is a fully functional rollup using Espresso confirmations on our Decaf Testnet and Arbitrum Sepolia
 
 **Rollup Liveness Verification**
 
